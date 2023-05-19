@@ -1,0 +1,12 @@
+*{
+ background-color: rgb(213, 213, 127);
+}
+p{
+    background-color: rgb(172, 129, 212);
+    text-align: center;
+    font-family: cursive;
+    -webkit-text-fill-color: #6f109f;
+}
+img{
+    height: 750px;
+}

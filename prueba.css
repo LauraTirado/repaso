@@ -1,0 +1,9 @@
+*{
+    background-color: blueviolet;
+}
+img{
+        border-radius:50px;
+        border-top: 30px solid #ff3300;
+        padding-top: 10px;
+        outline: 4px solid #82b710;
+}
